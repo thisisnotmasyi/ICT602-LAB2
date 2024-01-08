@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378619320279",
+    "project_id": "labflutter-a95e0",
+    "storage_bucket": "labflutter-a95e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378619320279:android:3086a252afc090f4e5dd92",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrf4LGaRbJMkYYa-z-Neraw3ztbyu6Yns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
